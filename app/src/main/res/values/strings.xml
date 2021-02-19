@@ -2,5 +2,8 @@
     <string name="app_name">dicedemo</string>
     <string name="DecriptionLogo">los vegas logo</string>
     <string name="dice">Dice</string>
-    <string name="btn">ROLE</string>
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+    <string name ="user">USER</string>
+    <string name="computer">COMPUTER</string>
 </resources>
